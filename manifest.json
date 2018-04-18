@@ -1,0 +1,14 @@
+{
+	"info" : {
+		"name" : "French hearthling's Rename",
+		"namespace" : "fr_rename",
+		"version" : 3,
+		"steam_file_id" : "1364303199"
+	},
+	"aliases" : {},
+	"mixintos" : {},
+	"overrides" : {
+		"stonehearth/services/server/population/data/ascendancy_population.json": "file(services/server/population/data/ascendancy_population.json)"},
+	"components" : {},
+	"controllers" : {}
+}
